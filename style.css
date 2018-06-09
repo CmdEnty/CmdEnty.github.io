@@ -9,7 +9,7 @@
  }
  
 div{
-	padding:40px;
+	padding:30px;
 	background:#112233;
 	color:#f0f1f5;
 	font-family:big john
@@ -22,7 +22,9 @@ h3{
 }
 
 header{
-	  margin-bottom:auto;
+	  padding:20px;
+	  background:green;	
+      margin:auto;	  
 }
 
 footer{
