@@ -1,0 +1,31 @@
+ *{
+   margin:0;
+   padding:0;
+   box-sizing:border box;
+ }
+ 
+ html,body{
+	    height:100%;
+ }
+ 
+div{
+	padding:40px;
+	background:#112233;
+	color:#f0f1f5;
+	font-family:big john
+}
+
+h3{
+  font-size:15px;
+  font-family: Comic Sans MS;
+  color:red;
+}
+
+header{
+	  margin-bottom:auto;
+}
+
+footer{
+	  text-align:center;
+	  font-family:Comic Sans MS;
+}
