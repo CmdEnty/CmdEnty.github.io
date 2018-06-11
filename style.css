@@ -12,7 +12,7 @@ div{
 	padding:30px;
 	background:#112233;
 	color:#f0f1f5;
-	font-family:big john
+	font-family:big john;
 }
 
 h3{
@@ -31,4 +31,8 @@ footer{
 	  text-align:center;
 	  font-family:Comic Sans MS;
 	  font-size:11px;
+}
+
+     div img{
+	     transform: rotate(-90deg);
 }
